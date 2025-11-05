@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm jaysi
+# Hi 👋, I'm jc
 ## Data Engineer
 
 ### Connect with me:
